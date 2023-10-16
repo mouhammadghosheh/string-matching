@@ -1,4 +1,4 @@
-# string-matching
+# string-pattern-matching
 String Pattern Matching Algorithm EX1
 slist.c : Contains the doublylist definition and functions
 pattern_matching.c:Builds the dfa and contains the pattern matching functions
